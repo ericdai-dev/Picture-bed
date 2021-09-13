@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name         AcWingSupport
-// @namespace    http://tampermonkey.net/
-// @version      0.1
+// @namespace    https://github.com/houhaibushihai/
+// @version      1.0.0
 // @description  When you user programming language coding Algorithm，you may need input and output templates for a language.
 // @author       houhaibushihai
+// @supportURL   https://github.com/houhaibushihai/Picture-bed/edit/master/AcWing
 // @match        https://www.acwing.com/problem/content/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
