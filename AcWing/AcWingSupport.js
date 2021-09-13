@@ -2,7 +2,7 @@
 // @name         AcWingSupport
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
+// @description  When you user programming language coding Algorithm，you may need input and output templates for a language.
 // @author       You
 // @match        https://www.acwing.com/problem/content/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
